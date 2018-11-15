@@ -25,7 +25,7 @@ creating the ``Category`` object::
     class Category
     {
         /**
-         * @Assert\NotBlank()
+         * @Assert\NotBlank
          */
         public $name;
     }
